@@ -1,0 +1,2 @@
+lives--
+instance_destroy();
